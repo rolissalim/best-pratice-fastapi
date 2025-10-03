@@ -1,4 +1,4 @@
-# HR AI
+# Best Practice Fastapi
     RUN FASTAPI 
     - uvicorn main:app --reload --host 0.0.0.0 --port 8000
     - fastapi dev
