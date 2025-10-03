@@ -1,0 +1,9 @@
+fastapi[standard]
+uvicorn
+psycopg2-binary
+sqlalchemy
+openai
+pytz
+pydantic_settings
+passlib
+PyJWT
